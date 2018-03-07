@@ -1,5 +1,22 @@
-.col {
+/*.col {
 	border-style: solid;
 	border-width: 1px;
 	color: red;
+}*/
+img {
+	height: 200px;
+}
+.card {
+	top: 40px;
+}
+h1 {
+	margin-top: -40px;
+	text-align: center;
+
+}
+.jumbotron  {
+	height: 60px;
+}
+nav {
+	top: -35px;
 }
